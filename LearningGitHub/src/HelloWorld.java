@@ -6,5 +6,7 @@ public class HelloWorld {
 		
 		//this is a second edit from comp
 		System.out.println("hello world");
+		
+		System.out.println("hello world FROM GIT HUB");
 	}
 }
